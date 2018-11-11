@@ -112,7 +112,8 @@ int main(void)
 	uint16_t Size=SIZE_OF_BUF;
 	uint32_t Timeout=1000;
 	uint8_t t=' ';
-	uint8_t second=0,minute=0,hour=0,day=0,month=0,year=0;
+	uint8_t second=0,year=0;
+//	uint8_t minute=0,hour=0,day=0,month=0;
 
 	
   /* USER CODE END 1 */
